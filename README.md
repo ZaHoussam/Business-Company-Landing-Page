@@ -5,7 +5,7 @@
 ##### 2- CSS3
 
 ###### An image of this template
-![Thumblain-Third-Video](https://github.com/ZaHoussam/Eid-Al-Adha-Landing-Page/assets/89077423/6be9ab51-7bc7-4ca8-92c5-a0051fb424d1)
+![images](https://github.com/ZaHoussam/Business-Company-Landing-Page/assets/89077423/1ea4dcf7-5d49-467d-a485-de352eacb8f0)
 
 ###### Link to this Template:
 https://zahoussam.github.io/Business-Company-Landing-Page
